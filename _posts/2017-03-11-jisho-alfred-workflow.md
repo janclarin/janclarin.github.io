@@ -13,9 +13,7 @@ tag:
 As I have been learning Japanese, I've found [Jisho.org](http://jisho.org/),
 an online Japanese-English dictionary, to be a great asset. In order to to make
 it easier to access Jisho, I created an [Alfred](https://www.alfredapp.com/)
-workflow.
-
-I called it, unsurprisingly,
+workflow. I called it, unsurprisingly,
 [**Jisho Alfred Workflow**](https://github.com/janclarin/jisho-alfred-workflow).
 
 It's an improvement in speed and reliability over the existing
