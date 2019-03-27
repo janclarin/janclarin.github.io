@@ -1,0 +1,14 @@
+$content-width: 600px;
+
+.page-content,
+.site-footer-content,
+.site-header-content {
+  margin: 0 auto;
+  max-width: $content-width;
+}
+
+.site-header-content {
+  border-bottom: 1px solid #e0e0e0;
+  display: flex;
+  justify-content: space-between;
+}
