@@ -5,8 +5,18 @@
   max-width: $content-width;
 }
 
+.page-content,
+.site-header,
+.site-footer {
+  padding: 0 $spacing-unit;
+}
+
 .site-header-content {
   border-bottom: 1px solid #e0e0e0;
   display: flex;
   justify-content: space-between;
+}
+
+.site-footer {
+  margin-top: $spacing-unit * 2;
 }
