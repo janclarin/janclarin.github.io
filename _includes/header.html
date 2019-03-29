@@ -1,5 +1,9 @@
 <header class="site-header">
   <div class="site-header-content">
-    <h1 class="site-title">{{ site.title | escape }}</h1>
+    <h1 class="site-title">
+      <a class="site-title-link" href="{{ "/" | relative_url }}">
+        {{ site.title | escape }}
+      </a>
+    </h1>
   </div>
 </header>
