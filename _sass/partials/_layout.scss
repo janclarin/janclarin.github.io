@@ -11,10 +11,31 @@
   padding: 0 $spacing-unit;
 }
 
+.site-header {
+  margin-top: $spacing-unit;
+}
+
 .site-header-content {
+  align-items: center;
   border-bottom: 1px solid #e0e0e0;
   display: flex;
   justify-content: space-between;
+}
+
+.social {
+  padding-bottom: $spacing-unit / 4; // Align to baseline of site title.
+}
+
+.social-links {
+  display: flex;
+}
+
+.social-link {
+  align-items: center;
+  display: flex;
+  height: $social-icon-size;
+  justify-content: center;
+  width: $social-icon-size;
 }
 
 .site-footer {
