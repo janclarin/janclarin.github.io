@@ -2,11 +2,6 @@
 
 <ul class="social-links">
   <li class="social-link">
-    <a href="https://twitter.com/{{ social.twitter }}" title="Twitter">
-      <i class="fab fa-twitter fa-lg fa-fw"></i>
-    </a>
-  </li>
-  <li class="social-link">
     <a href="https://github.com/{{ social.github }}" title="GitHub">
       <i class="fab fa-github fa-lg fa-fw"></i>
     </a>
@@ -17,7 +12,7 @@
     </a>
   </li>
   <li class="social-link">
-    <a href="mailto:{{ site.email | escape }}">
+    <a href="mailto:{{ site.email | escape }}" title="Email">
       <i class="fas fa-envelope fa-lg fa-fw"></i>
     </a>
   </li>
