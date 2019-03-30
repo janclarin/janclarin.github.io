@@ -11,6 +11,11 @@
   padding: 0 $spacing-unit;
 }
 
+.page-content,
+.site-header {
+  margin-bottom: $spacing-unit;
+}
+
 .site-header {
   margin-top: $spacing-unit;
 }
@@ -20,10 +25,11 @@
   border-bottom: 1px solid #e0e0e0;
   display: flex;
   justify-content: space-between;
+  padding-bottom: $spacing-unit / 2;
 }
 
-.social {
-  padding-bottom: $spacing-unit / 4; // Align to baseline of site title.
+.site-title {
+  margin-bottom: 0;
 }
 
 .social-links {
