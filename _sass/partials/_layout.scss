@@ -87,3 +87,11 @@
 .post-title {
   margin-bottom: 0;
 }
+
+.profile-image {
+  border-radius: 100%;
+  display: block;
+  height: $profile-image-size;
+  margin: $spacing-unit * 2 auto;
+  width: $profile-image-size;
+}
