@@ -3,10 +3,10 @@ layout: default
 ---
 
 <article>
+  {%- if page.title -%}
   <header>
     <h1>{{ page.title | escape }}</h1>
   </header>
-  <div>
-    {{ content }}
-  </div>
+  {%- endif -%}
+  {{ content }}
 </article>
