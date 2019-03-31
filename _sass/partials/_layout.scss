@@ -17,16 +17,12 @@
   margin-bottom: $spacing-unit;
 }
 
-.site-header {
-  margin-top: $spacing-unit;
-}
-
 .site-header-content {
   align-items: center;
   border-bottom: 1px solid $horizontal-line-color;
   display: flex;
   justify-content: space-between;
-  padding-bottom: $spacing-unit / 2;
+  padding: $spacing-unit / 2 0 ;
 }
 
 .site-title {
