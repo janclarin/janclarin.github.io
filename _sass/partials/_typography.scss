@@ -1,27 +1,21 @@
 body {
   color: $text-color;
   font-family: 'Fira Sans', sans-serif;
-  font-size: 16px;
+  font-size: $text-small;
+  font-weight: $weight-regular;
   line-height: 1.4;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
+  font-weight: $weight-light;
 }
 
-.site-title {
-  font-size: 24px;
-}
-
+.site-title,
 .site-nav-link {
-  font-size: 20px;
-}
-
-.site-footer-content {
-  font-size: 14px;
-  font-weight: 300;
+  font-size: $text-medium;
+  font-weight: $weight-medium;
 }
 
 .post-title {
-  font-size: 34px;
+  font-size: $text-large;
 }
