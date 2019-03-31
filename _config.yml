@@ -20,4 +20,5 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+# Not actually using this theme, just need to specify one for GitHub Pages.
 theme: jekyll-theme-cayman
