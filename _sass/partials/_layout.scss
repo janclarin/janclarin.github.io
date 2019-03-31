@@ -101,6 +101,6 @@
   border-radius: 100%;
   display: block;
   height: $profile-image-size;
-  margin: $spacing-unit * 2 auto;
+  margin: $spacing-unit auto $spacing-unit * 2 auto;
   width: $profile-image-size;
 }
