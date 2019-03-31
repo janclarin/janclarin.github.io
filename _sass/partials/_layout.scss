@@ -11,8 +11,7 @@
   padding: 0 $spacing-unit;
 }
 
-.page-content,
-.site-header {
+.page-content {
   margin-bottom: $spacing-unit;
 }
 
@@ -46,4 +45,33 @@
 
 .site-footer {
   margin-top: $spacing-unit * 2;
+}
+
+.site-nav {
+  display: flex;
+  justify-content: center;
+  padding: $spacing-unit 0;
+}
+
+.site-nav-links {
+  align-items: center;
+  display: flex;
+}
+
+.site-nav-link {
+  padding-bottom: 2px;
+
+  &.active, 
+  &:hover {
+    border-bottom: 2px solid $orange-color;
+    padding-bottom: 0;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+.site-nav-separator {
+  padding: 0 $spacing-unit / 2;
 }
