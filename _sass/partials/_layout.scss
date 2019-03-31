@@ -9,7 +9,7 @@
 .page-content,
 .site-footer,
 .site-header,
-.site-nav-links {
+.site-nav {
   padding: 0 $spacing-unit;
 }
 
@@ -54,12 +54,12 @@
 .site-nav {
   display: flex;
   justify-content: flex-end;
-  padding: $spacing-unit 0;
 }
 
 .site-nav-links {
   align-items: center;
   display: flex;
+  padding: $spacing-unit 0;
 }
 
 .site-nav-link {
