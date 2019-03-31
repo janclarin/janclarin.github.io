@@ -2,7 +2,11 @@
 title: Interning at Microsoft
 description: Intern experience
 layout: post
-permalink: /interning-at-microsoft/
+headerImage: false
+category: blog
+tag:
+- experience
+- internship
 ---
 
 This past summer, I interned at Microsoft through their 
