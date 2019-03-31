@@ -7,9 +7,8 @@
 
     <li class="site-nav-separator">&#124;</li>
 
-    {% assign latest_url = site.baseurl  %}
-    <li class="site-nav-link{% if page.url == latest_url %} active{% endif %}">
-      <a href="{{ latest_url | relative_url }}">Latest</a>
+    <li class="site-nav-link{% if page.url == "/" %} active{% endif %}">
+      <a href="{{ site.url }}">Latest</a>
     </li>
   </ul>
 </nav>
