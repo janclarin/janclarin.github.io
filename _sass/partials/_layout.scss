@@ -75,3 +75,19 @@
 .site-nav-separator {
   padding: 0 $spacing-unit / 2;
 }
+
+.posts {
+  padding: $spacing-unit 0;
+}
+
+.post {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: $spacing-unit * 2;
+}
+
+.post-title {
+  margin-bottom: 0;
+  padding-right: $spacing-unit;
+}

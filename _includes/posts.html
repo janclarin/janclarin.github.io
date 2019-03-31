@@ -1,0 +1,11 @@
+<!-- TODO: Pagination -->
+<ul class="posts">
+  {% for post in site.posts -%}
+  <li class="post">
+    <h2 class="post-title">
+      <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </h2>
+    <span class="post-meta">{{ post.date | date: "%m.%d.%Y" }}</span>
+  </li>
+  {%- endfor -%}
+</ul>
