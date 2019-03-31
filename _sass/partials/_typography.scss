@@ -10,11 +10,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $weight-light;
 }
 
-.site-title,
-.site-nav-link {
-  color: $text-color;
+.site-nav-link a,
+.site-title {
+  color: inherit;
   font-size: $text-medium;
   font-weight: $weight-medium;
+}
+
+.social-link a {
+  color: inherit;
 }
 
 .post-title {

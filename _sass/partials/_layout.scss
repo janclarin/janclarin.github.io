@@ -29,8 +29,10 @@
   padding: $spacing-unit / 2 0 ;
 }
 
-.site-title {
-  &:link,
+.site-nav-link.active,
+.site-title,
+.social-link {
+  &:hover,
   &:visited {
     text-decoration: none;
   }
