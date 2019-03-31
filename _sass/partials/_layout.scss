@@ -17,6 +17,10 @@
   margin-bottom: $spacing-unit;
 }
 
+.site-header {
+  height: $site-header-height;
+}
+
 .site-header-content {
   align-items: center;
   border-bottom: 1px solid $horizontal-line-color;
@@ -26,7 +30,10 @@
 }
 
 .site-title {
-  margin-bottom: 0;
+  &:link,
+  &:visited {
+    text-decoration: none;
+  }
 }
 
 .social-links {
