@@ -17,3 +17,5 @@ social_links:
 markdown: kramdown
 plugins:
   - jekyll-feed
+
+theme: jekyll-theme-cayman
