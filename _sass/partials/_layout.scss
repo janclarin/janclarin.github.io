@@ -29,15 +29,6 @@
   padding: $spacing-unit / 2 0 ;
 }
 
-.site-nav-link.active,
-.site-title,
-.social-link {
-  &:hover,
-  &:visited {
-    text-decoration: none;
-  }
-}
-
 .social-links {
   display: flex;
 }
@@ -78,10 +69,6 @@
   &:hover {
     border-bottom: 2px solid $orange-color;
     padding-bottom: 0;
-  }
-
-  a:hover {
-    text-decoration: none;
   }
 }
 
