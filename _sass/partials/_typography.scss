@@ -10,20 +10,46 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $weight-light;
 }
 
+a {
+  &:link {
+    color: $link-color;
+  }
+
+  &:visited {
+    color: $link-visited-color;
+  }
+
+  &:hover {
+    color: $link-hover-color;
+  }
+}
+
+.site-nav-link,
+.site-title,
+.social-link a {
+  &:link,
+  &:visited {
+    color: $text-color;
+  }
+
+  &:hover {
+    color: $link-hover-color;
+  }
+}
+
 .site-title {
-  color: inherit;
   font-size: $text-medium;
   font-weight: $weight-medium;
 }
 
-.site-nav-link a {
-  color: inherit;
-}
-
-.social-link a {
-  color: inherit;
+.site-footer {
+  color: $text-secondary-color;
 }
 
 .post-title {
   font-size: $text-large;
+}
+
+.post-meta {
+  color: $text-secondary-color;
 }

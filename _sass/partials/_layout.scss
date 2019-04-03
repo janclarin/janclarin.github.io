@@ -23,7 +23,7 @@
 
 .site-header-content {
   align-items: center;
-  border-bottom: 1px solid $horizontal-line-color;
+  border-bottom: 1px solid $divider-color;
   display: flex;
   justify-content: space-between;
   padding: $spacing-unit / 2 0 ;
@@ -46,7 +46,7 @@
 }
 
 .site-footer-content {
-  border-top: 1px solid $horizontal-line-color;
+  border-top: 1px solid $divider-color;
   padding-bottom: $spacing-unit * 2;
   padding-top: $spacing-unit / 2;
 }
@@ -67,7 +67,7 @@
 
   &.active, 
   &:hover {
-    border-bottom: 2px solid $orange-color;
+    border-bottom: 2px solid $link-hover-color;
     padding-bottom: 0;
   }
 }

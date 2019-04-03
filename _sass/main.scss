@@ -1,12 +1,20 @@
-$content-width: 600px;
-$profile-image-size: 256px;
-$site-header-height: 48px;
-$social-icon-size: 32px;
-$spacing-unit: 16px;
+// Material colors
+$deep-orange-500: #ff5722;
+$deep-orange-600: #f4511e;
+$deep-orange-800: #d84315;
+$deep-orange-a100: #ff9e80;
+$gray-300: #e0e0e0;
+$gray-600: #757575;
+$gray-900: #212121;
 
-$horizontal-line-color: #e0e0e0;
-$orange-color: #ff5722;
-$text-color: #333;
+$divider-color: $gray-300;
+
+$link-color: $deep-orange-600;
+$link-hover-color: $deep-orange-800;
+$link-visited-color: $deep-orange-a100;
+
+$text-color: $gray-900;
+$text-secondary-color: $gray-600;
 
 $text-small: 16px; // Material type scale Body 1.
 $text-medium: 20px; // Material type scale H6.
@@ -15,6 +23,14 @@ $text-large: 34px; // Material type scale H4.
 $weight-light: 300;
 $weight-regular: 400;
 $weight-medium: 500;
+$weight-bold: 700;
+
+$content-width: 600px;
+$profile-image-size: 256px;
+$site-header-height: 48px;
+$social-icon-size: 32px;
+
+$spacing-unit: 16px;
 
 @import "partials/base";
 @import "partials/layout";
