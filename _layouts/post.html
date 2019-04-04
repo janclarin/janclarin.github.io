@@ -2,12 +2,25 @@
 layout: default
 ---
 
-<article>
-  <header>
-    <span class="post-meta">{{ page.date | date: "%m.%d.%Y" }}</span>
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+<article class="h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <span class="post-meta">
+      <time
+          class="dt-published"
+          datetime="{{ page.date | date_to_xmlschema }}"
+          itemprop="datePublished">
+        {{ page.date | date: "%m.%d.%Y" }}
+      </time>
+    </span>
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ page.title | escape }}
+    </h1>
   </header>
-  {{ content }}
+  <div class="post-content e-content" itemprop="text articleBody">
+    {{ content }}
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
 
