@@ -16,8 +16,8 @@ google_analytics: UA-70490210-1
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Not actually using this theme, just need to specify one for GitHub Pages.
 theme: jekyll-theme-cayman
