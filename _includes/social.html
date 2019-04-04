@@ -1,18 +1,24 @@
 {%- assign social = site.social_links -%}
 
 <ul class="social-links">
-  <li class="social-link">
-    <a href="https://github.com/{{ social.github }}" title="GitHub">
+  <li>
+    <a class="social-link"
+        href="https://github.com/{{ social.github }}"
+        title="GitHub">
       <i class="fab fa-github fa-lg fa-fw"></i>
     </a>
   </li>
-  <li class="social-link">
-    <a href="https://linkedin.com/in/{{ social.linkedin }}" title="LinkedIn">
+  <li>
+    <a class="social-link"
+        href="https://linkedin.com/in/{{ social.linkedin }}"
+        title="LinkedIn">
       <i class="fab fa-linkedin-in fa-lg fa-fw"></i>
     </a>
   </li>
-  <li class="social-link">
-    <a href="mailto:{{ site.email | escape }}" title="Email">
+  <li>
+    <a class="social-link"
+        href="mailto:{{ site.email | escape }}"
+        title="Email">
       <i class="fas fa-envelope fa-lg fa-fw"></i>
     </a>
   </li>
