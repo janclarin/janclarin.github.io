@@ -15,9 +15,13 @@ a {
 ul {
   margin: 0;
   padding: 0;
+
+  & > li {
+    margin-left: 0;
+    list-style: none;
+  }
 }
 
-li {
-  margin-left: 0;
-  list-style: none;
+ol {
+  padding-left: $spacing-unit * 2;
 }
