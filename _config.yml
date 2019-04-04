@@ -19,6 +19,7 @@ google_analytics: UA-70490210-1
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Not actually using this theme, just need to specify one for GitHub Pages.
 theme: jekyll-theme-cayman
