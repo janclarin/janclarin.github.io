@@ -15,7 +15,7 @@ taking photos, and riding my electric skateboard. All at once, of course.
 
 I currently work as a software engineer at [Google](https://about.google),
 and previously interned at [Nureva](https://www.nureva.com) and
-[Microsoft](/2016/10/18/interning-at-microsoft.html).
+[Microsoft]({% link _posts/2016/10/18/interning-at-microsoft.md %}).
 I got my B.S. Computer Science at the
 [University of Calgary](https://www.ucalgary.ca).
 
