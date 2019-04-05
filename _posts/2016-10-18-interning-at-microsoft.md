@@ -3,7 +3,7 @@ title: Interning at Microsoft
 description: Intern experience
 layout: post
 tag:
-- work
+- career
 ---
 
 This past summer, I interned at Microsoft through their 
