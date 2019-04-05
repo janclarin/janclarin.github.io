@@ -84,6 +84,26 @@
   margin-bottom: 0;
 }
 
+.post-meta {
+  display: flex;
+}
+
+.post-meta-divider {
+  margin: 0 $spacing-unit / 2;
+}
+
+.post-tags {
+  display: flex;
+}
+
+.post-tag {
+  margin: 0 $spacing-unit / 4;
+
+  &:first-child {
+    margin-left: 0;
+  }
+}
+
 .profile-image {
   border-radius: 100%;
   display: block;

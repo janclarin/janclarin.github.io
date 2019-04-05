@@ -1,12 +1,8 @@
 <!-- TODO: Pagination -->
 <ul class="posts">
-  {% for post in site.posts -%}
+  {%- for post in site.posts -%}
   <li class="post">
-    <span class="post-meta">
-      <time datetime="{{ post.date | date_to_xmlschema }}">
-        {{ post.date | date: "%m.%d.%Y" }}
-      </time>
-    </span>
+    {%- include post-meta.html date=post.date tags=post.tags -%}
     <h1 class="post-title">
       <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
     </h1>
