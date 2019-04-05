@@ -1,8 +1,6 @@
 ---
 title: First Post
 layout: post
-headerImage: false
-category: blog
 ---
 
 ### Hello, World!

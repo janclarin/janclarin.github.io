@@ -2,8 +2,6 @@
 title: Better Friend - Hackathon Winner
 description: CalgaryHacks 2017 hackathon winner
 layout: post
-headerImage: false
-category: blog
 tag:
 - hackathon
 - javascript

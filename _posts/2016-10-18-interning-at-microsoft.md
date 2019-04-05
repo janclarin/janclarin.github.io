@@ -2,8 +2,6 @@
 title: Interning at Microsoft
 description: Intern experience
 layout: post
-headerImage: false
-category: blog
 tag:
 - experience
 - internship

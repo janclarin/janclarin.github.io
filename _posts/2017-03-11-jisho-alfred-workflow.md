@@ -2,8 +2,6 @@
 title: Jisho Alfred Workflow
 description: Alfred workflow for Japanese-English searching
 layout: post
-headerImage: false
-category: blog
 tag:
 - project
 - python
