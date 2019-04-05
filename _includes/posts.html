@@ -1,6 +1,8 @@
+{%- assign posts = include.posts -%}
+{%- if posts.size > 0 -%}
 <!-- TODO: Pagination -->
 <ul class="posts">
-  {%- for post in site.posts -%}
+  {%- for post in posts -%}
   <li class="post">
     {%- include post-meta.html date=post.date tags=post.tags -%}
     <h1 class="post-title">
@@ -9,3 +11,4 @@
   </li>
   {%- endfor -%}
 </ul>
+{%- endif -%}
