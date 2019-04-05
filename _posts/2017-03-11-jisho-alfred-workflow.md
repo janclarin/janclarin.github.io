@@ -5,7 +5,6 @@ layout: post
 tag:
 - project
 - python
-- extension
 ---
 
 As I have been learning Japanese, I've found [Jisho.org](http://jisho.org/),

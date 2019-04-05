@@ -1,6 +1,8 @@
 ---
 title: First Post
 layout: post
+tag:
+- random
 ---
 
 ### Hello, World!

@@ -3,10 +3,8 @@ title: Better Friend - Hackathon Winner
 description: CalgaryHacks 2017 hackathon winner
 layout: post
 tag:
-- hackathon
 - javascript
 - project
-- webapp
 ---
 
 Last week, my friends and I competed in the
