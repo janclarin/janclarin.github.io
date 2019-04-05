@@ -2,7 +2,9 @@
 {%- assign tags = include.tags -%}
 {%- if tags and tags.size > 0 -%}
   {%- assign sorted_tags = tags | sort -%}
-{% endif -%}
+{%- else -%}
+  {%- assign sorted_tags = nil -%}
+{%- endif -%}
 
 <div class="post-meta">
   {%- if date -%}
