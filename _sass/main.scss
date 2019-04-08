@@ -6,6 +6,7 @@ $gray-300: #e0e0e0;
 $gray-600: #757575;
 $gray-900: #212121;
 
+$border-color: $deep-orange-600;
 $divider-color: $gray-300;
 
 $link-color: $deep-orange-600;
@@ -29,6 +30,7 @@ $profile-image-size: 256px;
 $site-header-height: 48px;
 $social-icon-size: 32px;
 
+$border-width: 3px;
 $spacing-unit: 16px;
 
 @import "partials/base";
