@@ -19,6 +19,3 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-
-# Not actually using this theme, just need to specify one for GitHub Pages.
-theme: jekyll-theme-cayman
