@@ -12,7 +12,7 @@
     class="post-date dt-published"
     datetime="{{ date | date_to_xmlschema }}"
     itemprop="datePublished">
-    {{ date | date: "%m.%d.%Y" }}
+    {{ date | date: site.date_format }}
   </time>
   {%- endif -%}
   {%- if date and sorted_tags -%}

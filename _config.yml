@@ -6,6 +6,8 @@ description: >-
 baseurl: ""
 url: https://janclarin.com
 
+date_format: "%m.%d.%y"
+
 social_links:
   github: janclarin
   linkedin: janclarin
