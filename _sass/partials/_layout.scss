@@ -96,6 +96,10 @@
 
 .post-meta-divider {
   margin: 0 $spacing-unit / 2;
+
+  &::after {
+    content: "\2022";
+  }
 }
 
 .post-tags {
