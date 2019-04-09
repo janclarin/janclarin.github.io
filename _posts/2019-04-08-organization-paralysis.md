@@ -33,12 +33,14 @@ I’ve narrowed down what I need to organize my life to five points.
   * *Blog post ideas*, *The best start-up idea ever*
 
 ## The current solutions
-1. Use a to-do list app, [Things 3](https://culturedcode.com/things/), to solve 1 & 4
-  * With a new twist, following my simplification of the GTD methodology
-2. Use a calendar app, [Fantastical](https://flexibits.com/fantastical), to solve 2
-3. Use a journal app, [Day One](https://dayoneapp.com), to solve 3
-4. Use a note app, [Bear,](https://bear.app) to solve 5
-
 As this was my first post on my *redesigned* website, I wanted to go into more detail about my workflow and how I specifically use these tools, but those separate sections ended up becoming much larger than I’d anticipated. I’ll go into more details in separate posts about each one.
+
+In summary, I use the following:
+
+1. A to-do list app, [Things 3](https://culturedcode.com/things/), to solve 1 & 4
+  * With a new twist, following my simplification of the GTD methodology
+2. A calendar app, [Fantastical](https://flexibits.com/fantastical), to solve 2
+3. A journal app, [Day One](https://dayoneapp.com), to solve 3
+4. A note app, [Bear,](https://bear.app) to solve 5
 
 For now, I’ll mark my task *write first blog post* as completed. Success!
