@@ -53,3 +53,7 @@ a {
 .post-meta {
   color: $text-secondary-color;
 }
+
+.post-meta-divider::after {
+  content: "\2022";
+}
