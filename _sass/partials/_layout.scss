@@ -70,6 +70,18 @@
   padding: 0 $spacing-unit / 2;
 }
 
+.profile-image {
+  border-radius: 100%;
+  display: block;
+  height: $profile-image-size;
+  margin: $spacing-unit auto $spacing-unit * 2 auto;
+  width: $profile-image-size;
+}
+
+#disqus_thread {
+  margin-top: $spacing-unit * 2;
+}
+
 .post {
   margin-bottom: $spacing-unit * 2;
 }
@@ -98,14 +110,11 @@
   }
 }
 
-.profile-image {
-  border-radius: 100%;
-  display: block;
-  height: $profile-image-size;
-  margin: $spacing-unit auto $spacing-unit * 2 auto;
-  width: $profile-image-size;
+.post-content ul,
+.post-content ol { 
+  padding-left: $spacing-unit * 2;
 }
 
-#disqus_thread {
-  margin-top: $spacing-unit * 2;
+.post-content ul > li {
+  list-style: disc;
 }
