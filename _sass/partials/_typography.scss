@@ -7,7 +7,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $weight-light;
   line-height: normal;
 }
 
@@ -39,7 +38,7 @@ a {
 }
 
 .site-title {
-  font-size: $text-title;
+  font-size: $text-title-30;
   font-weight: $weight-light;
 }
 
@@ -57,3 +56,29 @@ a {
   font-size: $text-caption;
 }
 
+.post-content {
+  & h1 {
+    font-size: $text-display;
+    font-weight: $weight-extra-light;
+  }
+
+  & h2 {
+    font-size: $text-title-40;
+    font-weight: $weight-light;
+  }
+
+  & h3 {
+    font-size: $text-title-30;
+    font-weight: $weight-light;
+  }
+
+  & h4 {
+    font-size: $text-title-20;
+    font-weight: $weight-regular;
+  }
+
+  & h5 {
+    font-size: $text-title-10;
+    font-weight: $weight-regular;
+  }
+}
