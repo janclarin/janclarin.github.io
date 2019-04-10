@@ -16,16 +16,18 @@ $link-visited-color: $deep-orange-a100;
 $text-color: $gray-900;
 $text-secondary-color: $gray-500;
 
-$text-small: 16px; // Material type scale Body 1.
-$text-medium: 20px; // Material type scale H6.
-$text-large: 34px; // Material type scale H4.
+$text-caption: 15px;
+$text-body: 17px;
+$text-title: 22px;
+$text-display: 36px;
 
+$weight-extra-light: 200;
 $weight-light: 300;
 $weight-regular: 400;
 $weight-medium: 500;
 $weight-bold: 700;
 
-$content-width: 600px;
+$content-width: 512px;
 $profile-image-size: 256px;
 $site-header-height: 48px;
 $social-icon-size: 32px;

@@ -1,13 +1,14 @@
 body {
   color: $text-color;
   font-family: 'Fira Sans', sans-serif;
-  font-size: $text-small;
+  font-size: $text-body;
   font-weight: $weight-regular;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: $weight-light;
+  line-height: normal;
 }
 
 a {
@@ -38,8 +39,8 @@ a {
 }
 
 .site-title {
-  font-size: $text-medium;
-  font-weight: $weight-medium;
+  font-size: $text-title;
+  font-weight: $weight-light;
 }
 
 .site-footer {
@@ -47,10 +48,12 @@ a {
 }
 
 .post-title {
-  font-size: $text-large;
+  font-size: $text-display;
+  font-weight: $weight-extra-light;
 }
 
 .post-meta {
   color: $text-secondary-color;
+  font-size: $text-caption;
 }
 
