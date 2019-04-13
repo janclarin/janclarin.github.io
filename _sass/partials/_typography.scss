@@ -79,10 +79,6 @@ a {
     &:link {
       color: $text-color;
     }
-    
-    &:visited {
-      color: $text-secondary-color;
-    }
 
     &:hover {
       color: $link-hover-color;
