@@ -59,8 +59,7 @@
 .site-nav-link {
   padding-bottom: $border-width;
 
-  &.active, 
-  &:hover {
+  &.active {
     border-bottom: $border-width solid $border-color;
     padding-bottom: 0;
   }
