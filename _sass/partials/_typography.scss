@@ -74,6 +74,20 @@ a {
 .post-title {
   font-size: $text-display;
   font-weight: $weight-extra-light;
+
+  a {
+    &:link {
+      color: $text-color;
+    }
+    
+    &:visited {
+      color: $text-secondary-color;
+    }
+
+    &:hover {
+      color: $link-hover-color;
+    }
+  }
 }
 
 .post-meta {
