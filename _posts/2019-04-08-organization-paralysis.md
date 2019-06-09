@@ -41,6 +41,6 @@ In summary, I use the following:
   * With a new twist, following my simplification of the GTD methodology
 2. A calendar app, [Fantastical](https://flexibits.com/fantastical), to solve 2
 3. A journal app, [Day One](https://dayoneapp.com), to solve 3
-4. A note app, [Bear,](https://bear.app) to solve 5
+4. A note app, [Bear](https://bear.app), to solve 5
 
 For now, I’ll mark my task *write first blog post* as completed. Success!
