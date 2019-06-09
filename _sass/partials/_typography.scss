@@ -36,12 +36,9 @@ h5 {
 }
 
 a {
-  &:link {
-    color: $link-color;
-  }
-
+  &:link,
   &:visited {
-    color: $link-visited-color;
+    color: $link-color;
   }
 
   &:hover {
@@ -76,7 +73,8 @@ a {
   font-weight: $weight-extra-light;
 
   a {
-    &:link {
+    &:link,
+    &:visited {
       color: $text-color;
     }
 
