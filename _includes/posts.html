@@ -1,13 +1,10 @@
 {%- assign posts = include.posts -%}
 {%- if posts.size > 0 -%}
 <!-- TODO: Pagination -->
-<ul class="posts">
+<ul class="post-articles">
   {%- for post in posts -%}
-  <li class="post-header">
-    {%- include post-meta.html date=post.date tags=post.tags -%}
-    <h1 class="post-title">
-      <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-    </h1>
+  <li class="post-article">
+    {%- include post-article.html post=post -%}
   </li>
   {%- endfor -%}
 </ul>
