@@ -68,7 +68,7 @@ Over the years, at home or at work, I’ve tried and owned a number of office ch
     - Cons
         - Seat is not as breathable as Aeron
         - Stiffer back especially at top near the frame
-3. [Steelcase Gesture](https://store.steelcase.com/seating/office-chairs/gesture)
+3. [Steelcase Gesture](https://www.steelcase.com/products/office-chairs/gesture/)
     - [Wirecutter: top pick](https://www.nytimes.com/wirecutter/reviews/best-office-chair/), starts at \$1000
     - Using at work for the past 3 years
     - Pros
@@ -79,7 +79,7 @@ Over the years, at home or at work, I’ve tried and owned a number of office ch
     - Cons
         - Very expensive
         - Not very breathable
-4. [Steelcase Think](https://store.steelcase.com/seating/office-chairs/think)
+4. [Steelcase Think](https://www.steelcase.com/products/office-chairs/think/)
     - Starts at \$613
     - Using at home for the past 3 years
     - Purchased used at local office furniture liquidator for \$200
