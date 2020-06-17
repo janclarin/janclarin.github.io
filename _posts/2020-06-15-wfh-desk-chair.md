@@ -104,7 +104,7 @@ It checks all of the basics with its iconic breathable seat/back, adjustable arm
 
 If that wasn’t enough, it even comes with a [12-year warranty](https://www.hermanmiller.com/customer-service/warranty-and-service/). They’ll send a local, certified technician to your home to repair any problems at no cost within the U.S. and Canada. Do note that warranty is non-transferable, so buying used will not provide these same guarantees. Thankfully though, they’ve been known to last well beyond their 12-year expected lifetimes, so you’ll likely be okay.
 
-Although it’s been several years since I’ve sat in an Aeron, it’s by far been my most memorable seating experience. And since I’d last sat on one, it was [remastered in 2016]((https://www.btod.com/blog/aeron-classic-vs-remastered/) — the first update since its release in 1994.
+Although it’s been several years since I’ve sat in an Aeron, it’s by far been my most memorable seating experience. And since I’d last sat on one, it was [remastered in 2016](https://www.btod.com/blog/aeron-classic-vs-remastered/) — the first update since its release in 1994.
 
 If you’re looking to buy one, start with the [size guide](https://www.hermanmiller.com/content/dam/hermanmiller/documents/product_literature/other/ap_sizefitref_aeron_chairs.pdf) where you can choose the appropriate size: A, B, or C. Most people fall within size B, though it’s good to check. Next, determine [which add-ons you want](https://store.hermanmiller.com/office/office-chairs/aeron-chair/2195348.html). Wirecutter [recommends](https://www.nytimes.com/wirecutter/reviews/best-office-chair/):
 
