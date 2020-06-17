@@ -22,14 +22,17 @@ The adjustability lets me lower and raise the desk to maintain a relaxed 90° el
 
 ### [Fully Jarvis standing desk](https://www.fully.com/standing-desks/jarvis.html)
 
-Here’s my configuration, which goes for around \$664.
+Here’s my configuration, which goes for \$664.
 
 - 60x30” desktop
-- Larger desk space than the default 48x30” desktop
+    - Larger desk space than the default 48x30” desktop
 - Legs support up to 350lbs
-- Extended range desk frame - More height adjustability for lowering the desk
-- Programmable memory handset - Consistent height settings, no holding up/down
-- Formerly a [Wirecutter top pick](#) - Currently the less expensive, runner-up pick
+- Extended range desk frame
+    - More height adjustability for lowering the desk
+- Programmable memory handset
+    - Consistent height settings, no holding up/down
+- Formerly a [Wirecutter top pick](#)
+    - Currently the less expensive, runner-up pick
 
 Two years ago, I managed to find one in great condition on [craigslist](https://craigslist.org) from a defunct startup incubator for around \$250. I’ve had nothing less than a perfect experience with it and would gladly pay full price — it simply just works.
 
