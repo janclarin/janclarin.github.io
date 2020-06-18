@@ -87,5 +87,16 @@ a {
 .post-meta {
   color: $text-secondary-color;
   font-size: $text-caption;
+
+  a {
+    &:link,
+    &:visited {
+      color: $text-secondary-color;
+    }
+
+    &:hover {
+      color: $link-hover-color;
+    }
+  }
 }
 

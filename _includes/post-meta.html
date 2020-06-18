@@ -1,5 +1,6 @@
-{%- assign date = include.date -%}
-{%- assign tags = include.tags -%}
+{%- assign post = include.post -%}
+{%- assign date = post.date -%}
+{%- assign tags = post.tags -%}
 {%- if tags and tags.size > 0 -%}
   {%- assign sorted_tags = tags | sort -%}
 {%- else -%}
@@ -14,11 +15,14 @@
     itemprop="datePublished">
     {{ date | date: site.date_format }}
   </time>
-  {%- endif -%}
-  {%- if date and sorted_tags -%}
   <span class="post-meta-divider"></span>
   {%- endif -%}
+  <!-- Disqus comment count -->
+  <a class="post-comment-count" href="{{ post.url | relative_url }}#disqus_thread">
+    comments
+  </a>
   {%- if sorted_tags -%}
+  <span class="post-meta-divider"></span>
   <ul class="post-tags">
     {%- for tag in sorted_tags -%}
     <li class="post-tag">#{{ tag }}</li>
