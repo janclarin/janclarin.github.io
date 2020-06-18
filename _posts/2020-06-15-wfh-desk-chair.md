@@ -53,7 +53,8 @@ Over the years, at home or at work, I’ve tried and owned a number of office ch
     - Pros
         - **Breathable** seat/back
         - Adjustable lumbar support
-        - Forward tilt support - [Iconic](https://www.moma.org/collection/works/3734) design
+        - Forward tilt support
+        - [Iconic](https://www.moma.org/collection/works/3734) design
         - 12-year warranty
         - Very popular: easy to find used, holds a resale value
     - Cons
@@ -62,7 +63,8 @@ Over the years, at home or at work, I’ve tried and owned a number of office ch
         - Less adjustable arms versus the Steelcase Gesture
 2. [Herman Miller Sayl](https://store.hermanmiller.com/office/office-chairs/sayl-task-chair/2294.html)
     - [Wirecutter: also great pick](https://www.nytimes.com/wirecutter/reviews/best-office-chair/), starts at \$545
-    - Used at home for 2 years, purchased new - Donated to my younger brother when I moved away
+    - Used at home for 2 years, purchased new
+    - Donated to my younger brother when I moved away
     - Pros
         - Breathable back
         - Least expensive, recommended Herman Miller
