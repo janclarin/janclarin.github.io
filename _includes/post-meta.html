@@ -17,8 +17,10 @@
   </time>
   <span class="post-meta-divider"></span>
   {%- endif -%}
-  <!-- Disqus comment count -->
-  <a class="post-comment-count" href="{{ post.url | relative_url }}#disqus_thread">
+  <a
+    class="disqus-comment-count"
+    href="{{ post.url | relative_url }}#disqus_thread"
+    data-disqus-identifier="{{ post.id }}">
     comments
   </a>
   {%- if sorted_tags -%}
