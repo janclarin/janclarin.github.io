@@ -131,3 +131,8 @@ h1, h2, h3, h4, h5, h6 {
 .post-content ul > li {
   list-style: disc;
 }
+
+.post-content img {
+  max-width: 512px;
+  width: 100%;
+}
