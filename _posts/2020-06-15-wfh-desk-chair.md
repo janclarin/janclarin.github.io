@@ -49,9 +49,9 @@ Over the years, at home or at work, I’ve tried and owned a number of office ch
 1. [Herman Miller Aeron](https://store.hermanmiller.com/office/office-chairs/aeron-chair/2195348.html)
     - [Wirecutter: runner-up pick](https://www.nytimes.com/wirecutter/reviews/best-office-chair/), starts at \$995
     - Used at an internship for 1 year
-    - Recently purchased new using company wfh money
+    - Now using at home as of 6/21/2020, purchased new using company wfh money
     - Pros
-        - **Breathable** seat/back
+        - **Breathable** mesh seat/back
         - Adjustable lumbar support
         - Forward tilt support
         - [Iconic](https://www.moma.org/collection/works/3734) design
@@ -59,6 +59,7 @@ Over the years, at home or at work, I’ve tried and owned a number of office ch
         - Very popular: easy to find used, holds a resale value
     - Cons
         - Very expensive
+        - Mesh seat is stiffer than the foam seats like in the below chairs
         - No customizable fabric colors: just black or white
         - Less adjustable arms versus the Steelcase Gesture
 2. [Herman Miller Sayl](https://store.hermanmiller.com/office/office-chairs/sayl-task-chair/2294.html)
@@ -86,7 +87,7 @@ Over the years, at home or at work, I’ve tried and owned a number of office ch
         - Not very breathable
 4. [Steelcase Think](https://www.steelcase.com/products/office-chairs/think/)
     - Starts at \$613
-    - Using at home for the past 3 years
+    - Used at home for the past 3 years
     - Purchased used at local office furniture liquidator for \$200
     - Pros
         - Breathable back
@@ -119,3 +120,5 @@ If you’re looking to buy one, start with the [size guide](https://www.hermanmi
 That configuration comes to $1214 before tax. If you’re interested in the forward tilt support mentioned above, you’ll want to upgrade the Tilt option from Standard to _Tilt Limiter and Seat Angle_ for an additional $100. However, the most important and immediately noticeable add-on is the upgraded adjustable back support. Don’t cheap out on it, your lower back will thank you.
 
 As of 6/15/2020, I’m still waiting for my Aeron to arrive from Herman Miller. Until then, my Think will make do despite its uncomfortable attempts to support my upper back. I’ll update this post once I get my hands on it.
+
+6/30/2020 update: I've received my chair and here's my [first week with it]({% post_url 2020-06-30-week-with-aeron %}).
