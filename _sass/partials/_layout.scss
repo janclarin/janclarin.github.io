@@ -83,6 +83,10 @@
 
 .post-article {
   margin-bottom: $spacing-unit * 4; 
+
+  &:not(:last-child) {
+    border-bottom: $spacing-unit / 4 $divider-color solid;
+  }
 }
 
 .post-header {
