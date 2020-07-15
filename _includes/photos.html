@@ -1,0 +1,11 @@
+{%- assign posts = include.posts -%}
+{%- if posts.size > 0 -%}
+<!-- TODO: Pagination -->
+<ul class="post-articles">
+  {%- for post in posts -%}
+  <li class="post-article">
+    {%- include photo-article.html post=post -%}
+  </li>
+  {%- endfor -%}
+</ul>
+{%- endif -%}
