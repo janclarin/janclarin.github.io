@@ -84,7 +84,7 @@
 .post-article {
   margin-bottom: $spacing-unit * 4; 
 
-  &:not(:last-child) {
+  &.show-separator-line:not(:last-child) {
     border-bottom: $spacing-unit / 4 $divider-color solid;
   }
 }
