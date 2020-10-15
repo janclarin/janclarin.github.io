@@ -8,8 +8,8 @@
   </header>
 
   <div class="post-content e-content" itemprop="text articleBody">
-    <a class="post-photo-link" href="{{ post.photo_url | relative_url }}">
-      <img src="{{ post.thumbnail_url | relative_url }}" alt="{{ post.photo_alt }}" itemprop="image">
+    <a class="post-photo-link" href="{{ post.image.high_res_path | relative_url }}">
+      <img src="{{ post.image.path | relative_url }}" alt="{{ post.image.alt }}" itemprop="image">
     </a>
 
     {{ post.content }}
