@@ -9,14 +9,13 @@ layout: page
 
 # Hi, I'm Jan!
 
-I'm a software engineer at [OpenSea](https://opensea.io/about) where I'm working
-on NFT stuff. [wagmi](https://opensea.io/{{ site.social_links.opensea }}).
+I'm a software engineer at [OpenSea](https://opensea.io/about), the largest NFT
+marketplace. wagmi.
 
-I previously worked at [Google](https://about.google) for 4 years on the
-[Shopping](https://shopping.google.com) team and interned at
-[Nureva](https://www.nureva.com) and
-[Microsoft](/2016/10/18/interning-at-microsoft.html), and got my B.S. Computer
-Science at the [University&nbsp;of&nbsp;Calgary](https://www.ucalgary.ca).
+I previously worked at [Google](https://about.google) on the Shopping team,
+interned at [Microsoft](/2016/10/18/interning-at-microsoft.html) and
+[Nureva](https://www.nureva.com), and got my B.S. Computer Science at the
+[University&nbsp;of&nbsp;Calgary](https://www.ucalgary.ca).
 
 I like playing tennis, practicing photography, watching anime, and riding my
 OneWheel around town. All at once, of course.
