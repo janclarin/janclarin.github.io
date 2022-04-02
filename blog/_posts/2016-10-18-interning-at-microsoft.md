@@ -10,7 +10,8 @@ This past summer, I interned at Microsoft through their
 [Garage Internship Program](https://mcec.microsoft.ca/internships/).
 
 There, I teamed up with five amazing interns to create and 
-beta-release, [Hearing AI](https://aka.ms/hearingai). 
+beta-release,
+[Hearing AI](https://www.microsoft.com/garage/profiles/hearing-ai/). 
 From a basic concept to a full-fledged iOS app, we collaborated 
 as a team to both develop and validate the idea. Using Microsoft's
 latest tools and technology, we created a new and unique experience 
