@@ -7,6 +7,7 @@ image:
   high_res_path: assets/photos/full/2022-04-10-the-mad-dash.jpg
   path: assets/photos/thumbnail/2022-04-10-the-mad-dash.jpg
 tag:
+  - san francisco
   - street
 ---
 
