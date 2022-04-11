@@ -6,3 +6,13 @@ Scripts that should load at the end the <body> tag for performance.
   src="https://{{ site.disqus_shortname }}.disqus.com/count.js"
   async>
 </script>
+<script src="/assets/js/lightbox/lightbox-plus-jquery.min.js">
+</script>
+<script>
+  lightbox.option({
+    "disableScrolling": true,
+    "fadeDuration": 400,
+    "imageFadeDuration": 400,
+    "resizeDuration": 0,
+  })
+</script>
