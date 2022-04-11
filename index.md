@@ -10,7 +10,7 @@ layout: page
 # Hi, I'm Jan!
 
 I'm a software engineer at [OpenSea](https://opensea.io/about), the largest NFT
-marketplace. wagmi.
+marketplace. gm.
 
 I previously worked at [Google](https://about.google) on the Shopping team,
 interned at [Microsoft](/blog/2016/10/18/interning-at-microsoft.html) and
