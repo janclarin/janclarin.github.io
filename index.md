@@ -22,5 +22,5 @@ I like playing tennis, practicing photography, watching anime, and riding my
 OneWheel around town. All at once, of course.
 
 _Feel free to
-[dm&nbsp;me](https://twitter.com/{{ site.social_links.twitter }})
+[dm&nbsp;me](https://x.com/{{ site.social_links.twitter }})
 or say&nbsp;[{{site.email}}](mailto:{{ site.email }})._
